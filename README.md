@@ -26,3 +26,6 @@ The script will read pythia data located in 'data/' and run for 200k epochs.
 
  ## Results:
  * Every 10k epochs, it will generate and save plots in 'gallery/'.
+ 
+ 
+ [README](https://github.com/ijcai2021/FAT-GAN/README.md)
