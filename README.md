@@ -22,7 +22,7 @@ cd FAT-GAN
 ``` bash
 python3 FAT-GAN.py
 ```
-The script will read pythia data located in [data/](https://github.com/ijcai2021/FAT-GAN/tree/main/datay)' and run for 200k epochs.
+The script will read pythia data located in [data/](https://github.com/ijcai2021/FAT-GAN/tree/main/datay) and run for 200k epochs.
 
 
  ## Results:
