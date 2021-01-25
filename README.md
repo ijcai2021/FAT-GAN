@@ -22,9 +22,10 @@ cd FAT-GAN
 ``` bash
 python3 FAT-GAN.py
 ```
-The script will read pythia data located in 'data/' and run for 200k epochs.
+The script will read pythia data located in [data/](https://github.com/ijcai2021/FAT-GAN/tree/main/datay)' and run for 200k epochs.
+
 
  ## Results:
- * Every 10k epochs, it will generate and save plots in [gallery](https://github.com/ijcai2021/FAT-GAN/tree/main/gallery)
+ * Every 10k epochs, it will generate and save plots in [gallery/](https://github.com/ijcai2021/FAT-GAN/tree/main/gallery)
  
    
